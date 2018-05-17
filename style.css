@@ -5,9 +5,6 @@ h2 {
   padding-top: 50px;
   }
 
-  h2{
-    font-weight:400;
-  }
   /*  I'm making some minor changes here*/
 li + li::before {
     content:" | ";
